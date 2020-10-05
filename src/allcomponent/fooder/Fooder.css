@@ -1,0 +1,63 @@
+
+
+
+.fodssser{
+	background: rgb(14, 92, 106);
+	height: 60px;	
+    margin-top: 400px;
+    width: 100%;
+    color: red;
+}
+
+.fooder{
+	margin-bottom: -2000px;
+	padding: 20px;
+}
+
+.foodone.{
+	background: rgb(0 255 217 / 19%);
+	border-radius: 15px;
+	padding: 20px;
+	}
+.foodtwo.{
+	background: rgb(0 255 217 / 19%);
+	border-radius: 15px;
+	padding: 20px;
+	}
+.foodthree.{
+	background: rgb(0 255 217 / 19%);
+	border-radius: 15px;
+	padding: 20px;
+	}
+
+
+	.foodtwo.{
+	background: rgb(0 255 217 / 19%);
+	border-radius: 15px;
+	padding: 20px;
+	}
+
+	.foodtwo.{
+	background: rgb(0 255 217 / 19%);
+	border-radius: 15px;
+	padding: 20px;
+	}
+
+
+
+ .foodone:hover{	 
+	box-shadow: 3px 9px rgb(233 231 237)
+}
+
+ .foodtwo:hover{ 
+	box-shadow: 3px 9px rgb(233 231 237)
+}
+
+ .foodthree:hover{ 
+	box-shadow: 3px 9px rgb(233 231 237)
+}
+
+
+ .foodfour:hover{ 
+	box-shadow: -3px 9px rgb(233 231 237)
+}

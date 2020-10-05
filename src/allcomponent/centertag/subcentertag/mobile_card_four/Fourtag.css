@@ -1,0 +1,25 @@
+.bowserlist{
+	padding: 25px;
+	background: white;
+	border-radius: 10px;
+	box-shadow: 5px 10px 10px #888888;
+
+}
+
+
+.shawdo{
+	color: rgb(143, 171, 255);
+	 
+	border-radius: 10px;
+	height: 40px;
+	padding: 10px;
+	box-shadow: 5px 10px 10px rgb(200, 158, 920);
+}
+
+
+.shawdo:hover{
+	background: rgb(143, 171, 255);
+	color: white;
+	box-shadow: 5px 10px 10px #888888;
+}
+

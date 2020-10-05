@@ -1,0 +1,44 @@
+ 
+
+.bodytexte{
+	padding: 20px;
+	background: white;
+	margin:top;
+	box-shadow: 5px 10px 10px #888888;
+	border-radius: 10px;
+}
+
+.bodytext{	 
+	 
+	padding: 40px;
+	box-shadow: 5px 10px 10px #888888;
+	border-radius: 10px;
+	border: 1px solid lightblue;
+}
+
+
+.bodytext:hover{	 
+	padding: 40px;
+	box-shadow: 5px 10px 10px gray;
+	border-radius: 10px; 
+}
+
+
+.mobile_card_many{ 
+	border-radius: 10px;
+	padding: 13px;
+	color: white;
+	box-shadow: 2px 1px 0px #859988; 
+}
+
+
+.mobile_card_many:hover{ 
+	border-radius: 10px;
+	padding: 13px;
+	color: #104a2e;
+	box-shadow: inset 0px 0px 44px 168px #888888; 
+	  
+}
+.name{
+	color: black;
+}

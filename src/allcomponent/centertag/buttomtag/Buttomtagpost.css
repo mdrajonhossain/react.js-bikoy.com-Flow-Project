@@ -1,0 +1,38 @@
+
+
+
+.Buttomtagpost{
+	padding: 40px;
+	
+}
+
+.button{ 
+	border-radius: 10px;
+	box-shadow: 5px 10px 10px rgb(51 249 0 / 19%);
+  background: #d0d020fa;
+  border: 7px solid #d0d020fa;
+}
+
+.button:hover{ 
+  color: white;
+  border-radius: 10px;
+  box-shadow: 1px 7px 91px 35px rgb(51 249 0 / 93%);
+  border: 7px solid #d0d020fa;
+}
+
+
+
+.anumat {   
+  color: red;
+  animation-name: example;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes example {
+	0%   {color: red;}
+  	25%  {color:yellow;}
+  	50%  {color:blue;}
+  	75%  {color:green;}
+  	100% {color:red;}
+}
